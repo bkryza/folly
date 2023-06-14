@@ -18,6 +18,7 @@
 
 #include <list>
 #include <mutex>
+#include <system_error>
 
 #include <folly/ScopeGuard.h>
 #include <folly/lang/Exception.h>
